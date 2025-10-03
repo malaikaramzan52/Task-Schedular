@@ -24,5 +24,5 @@ A simple and interactive **Time Scheduler Web App** that allows users to add, ma
 - **Git & GitHub** – For version control and project hosting.
 
 ## Output Preview 
-** Live Demo :** https://malaikaramzan52.github.io/Task-Schedular/
+ Live Demo : https://malaikaramzan52.github.io/Task-Schedular/
 
