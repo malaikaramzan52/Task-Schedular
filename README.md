@@ -16,7 +16,7 @@ A simple and interactive **Time Scheduler Web App** that allows users to add, ma
 
 ---
 
-## 🧰 Tools & Technologies Used
+##  Tools & Technologies Used
 
 - **HTML5** – For structuring the web page.
 - **CSS3 / Tailwind CSS** – For responsive design and styling.
@@ -24,3 +24,5 @@ A simple and interactive **Time Scheduler Web App** that allows users to add, ma
 - **Git & GitHub** – For version control and project hosting.
 
 ## Output Preview 
+** Live Demo :** https://malaikaramzan52.github.io/Task-Schedular/
+
