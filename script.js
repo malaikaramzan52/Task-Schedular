@@ -39,23 +39,23 @@ addTaskButton.addEventListener("click", () => {
     taskinput.focus();
     priorityInput.value = "Top Priority";
     deadlineInput.value = "";
-    
-   
+
+
 
     //Mark Done Button
     const markDoneBtn = row.querySelector(".mark-done-btn");
     markDoneBtn.addEventListener("click", () => {
-        row.style.textDecoration = "line-through"; // or row.remove();
+        row.style.textDecoration = "line-through";
         markDoneBtn.textContent = "Completed";
         markDoneBtn.disabled = true;
         markDoneBtn.classList.remove("bg-green-500");
         markDoneBtn.classList.add("bg-gray-400");
     });
     //clearall button
-    clearall.addEventListener("click",()=>{
-        taskList.innerHTML="";
+    clearall.addEventListener("click", () => {
+        taskList.innerHTML = "";
     });
-    
+
 
 
 });
